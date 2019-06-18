@@ -36,9 +36,9 @@ Then The user account successfully deleted
 
 
 
-As a User
-I want to successfully log in and log out in the application
-In order to access the application
+#As a User
+#I want to successfully log in and log out in the application
+#In order to access the application
 
 
 Scenario: User logs-in in the account
