@@ -47,7 +47,7 @@ public class stepDefinition {
 		given().
 		queryParam("api_key",prop.getProperty("KEY")).
 		when().
-		given().get(resources.inventory());
+		get(resources.inventory());
 		
 	    
 	}	
